@@ -1,7 +1,7 @@
 {
   "name": "corta-js",
   "description": "Corta JavaScript/TypeScript libs",
-  "version": "2025.1.7",
+  "version": "2025.1.7-1",
   "license": "Apache-2.0",
   "author": "Protolab",
   "main": "dist/index.js",
@@ -21,7 +21,7 @@
   "dependencies": {
     "axios": "^0.28.0",
     "hex-rgb": "^4.1.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "minimalist": "^1.0.0",
     "minimatch": "^3.0.5",
     "moment": "2.30.1",
